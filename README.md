@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moh-Ayman
 - 👀 I’m interested in Data Analytics Pipleline deigning & automation
 - 🌱 I’m currently learning GCP Cloud Architect
-- 💞️ I’m looking to collaborate on Data Python, GCP, Splunk, Cribl & Analytics Topics 
+- 💞️ I’m looking to collaborate on Data Python, GCP, AWS, Nifi, Splunk, Cribl & Analytics Topics 
 - 📫 How to reach me on my mail moh.ayman.ibrahim.khalil@gmail.com
 
 <!---
